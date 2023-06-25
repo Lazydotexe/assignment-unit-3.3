@@ -21,7 +21,7 @@ console.log('4. Removed item:', supplyChanges.pop());
 
 // 5. A delivery of 25 more parts arrived. Add the value 25 to the end of the array
 supplyChanges.push(25);
-console.log(`5. Adding 25 to supplyChanges. ${supplyChanges}`)
+console.log('5. Adding 25 to supplyChanges.')
 //console.log(supplyChanges);
 
 // 6. Write a `for` loop that shows each value in the 'supplyChanges' array
